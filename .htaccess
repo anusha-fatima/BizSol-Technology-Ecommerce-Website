@@ -1,0 +1,4 @@
+<Files "enquiries.log">
+  Require all denied
+</Files>
+Options -Indexes
